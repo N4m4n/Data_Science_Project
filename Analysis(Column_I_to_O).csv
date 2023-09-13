@@ -1,0 +1,8 @@
+Column Name,Mean,Median,Mode,Least Common Value,Least Common Value Frequency,Most Common Value,Most Common Value Frequency
+time_in_hospital,4.395986871843248,4.0,,14.0,1042.0,3.0,17756.0
+num_lab_procedures,43.09564098028811,44.0,,107.0,1.0,1.0,3208.0
+num_procedures,1.339730361810428,1.0,,5.0,3078.0,0.0,46652.0
+num_medications,16.021844230882614,15.0,,81.0,1.0,13.0,6086.0
+number_outpatient,0.36935715268360747,0.0,,34.0,1.0,0.0,85027.0
+number_emergency,0.19783621248747127,0.0,,28.0,1.0,0.0,90383.0
+number_inpatient,0.635565906098304,0.0,,17.0,1.0,0.0,67630.0
